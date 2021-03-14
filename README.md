@@ -27,4 +27,8 @@ Infine per poter garantire una maggiore robustezza sono stati utilizzati anche n
 
 ###### Sviluppatori
 Angelica Sofia Valeriani - https://github.com/AngelicaSofia
+
 Daniele Tagliabue - https://github.com/ILTaglia
+
+###### Valutazione
+Il progetto è stato valutato con 30 cum laude/30. Professore di riferimento del corso: Gianluca Palermo, Tutor: Davide Conficconi
